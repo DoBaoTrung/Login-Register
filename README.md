@@ -8,7 +8,7 @@ Tạo một trang đăng ký và một trang đăng nhập kết nối database 
 - Trang đăng ký gồm các item: Username, Email, Password, Confirm password.
 - Khi đăng nhập hay đăng ký, nếu không thỏa mãn điều kiện sẽ in ra lỗi cho mỗi item. Nếu đăng nhập hay đăng ký thành công sẽ chuyển sang màn hình đăng nhập thành công, đăng ký thành công.
 
-## Giao diện màn hình login
+## Giao diện màn hình đăng nhập
 <br>
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/127092095/223069257-d6ea0767-05f6-4c9d-8436-6ddf4634ee7b.png">
 </br>
