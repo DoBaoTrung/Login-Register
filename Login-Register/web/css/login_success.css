@@ -1,0 +1,10 @@
+.result_style {
+    border: 1px solid steelblue;
+    text-align: center;
+    margin: auto;
+    border-radius: 8px;
+    width: 500px;
+    height: 135px;
+    padding-top: 25px;
+    background-color: rgb(201, 227, 249);
+}

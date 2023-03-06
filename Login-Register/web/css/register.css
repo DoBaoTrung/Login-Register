@@ -1,0 +1,83 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+form {
+    border: 1px solid steelblue;
+    padding-left: 45px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    width: 430px;
+    margin: auto;   
+    border-radius: 8px;
+}
+
+label {
+    width: 90px;
+    margin-right: 20px;
+    text-align: center;
+    color: black;
+}
+
+input[type=textbox]{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 400px;
+    /* margin-top: 30px; */
+    /* margin-left: 47px; */
+    margin-bottom: 5px;
+    border: 1px solid steelblue;
+    background-color: rgb(204, 227, 246);
+    border-radius: 0;  
+}
+
+input[type=submit] {
+    font-size: 15px;
+    border: 1px solid steelblue;
+    background-color: rgb(134, 189, 235);
+    border-radius: 9px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+input[type=submit]:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+input[type=password] {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 400px;
+    /* margin-left: 15px; */
+    margin-bottom: 5px;
+    border: 1px solid steelblue;
+    background-color: rgb(204, 227, 246);
+}
+
+a {
+    margin-left: 70px;
+    color: black;
+}
+
+/* input[type=email]{
+    width: 300px;
+    margin-left: 40px;
+    margin-bottom: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: 1px solid steelblue;
+    background-color: rgb(204, 227, 246);
+} */
+
+h2 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
