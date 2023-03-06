@@ -11,11 +11,10 @@ Tạo một trang đăng ký và một trang đăng nhập kết nối database 
 ## Giao diện màn hình login
 <br>
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/127092095/223069257-d6ea0767-05f6-4c9d-8436-6ddf4634ee7b.png">
-</br
+</br>
 
 ## Giao diện màn hình đăng ký
-
 <br>
 <img width="420" alt="image" src="https://user-images.githubusercontent.com/127092095/223069390-3c37ffcc-f3d0-4fb2-a03b-28023cd5bb3f.png">
-</br
+</br>
 
